@@ -1,0 +1,204 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company_logo_url": "https://th.bing.com/th/id/OIP.uFBUhWgHBARpY5SkNbw-jAHaHa?rs=1&pid=ImgDetMain",
+      "employment_type": "FULLTIME",
+      "job_description": "Develop responsive user interfaces using React.js and modern CSS frameworks.",
+      "location": "Bangalore",
+      "package_per_annum": "12 LPA",
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "title": "Backend Engineer",
+      "company_logo_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+      "employment_type": "PARTTIME",
+      "job_description": "Build scalable microservices using Node.js and MongoDB.",
+      "location": "Hyderabad",
+      "package_per_annum": "10 LPA",
+      "rating": 4.2
+    },
+    {
+      "id": "3",
+      "title": "Full Stack Developer",
+      "company_logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg",
+      "employment_type": "FREELANCE",
+      "job_description": "Develop end-to-end web applications using MERN stack.",
+      "location": "Remote",
+      "package_per_annum": "15 LPA",
+      "rating": 4.8
+    },
+    {
+      "id": "4",
+      "title": "UI/UX Designer",
+      "company_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+      "employment_type": "INTERNSHIP",
+      "job_description": "Create intuitive user experiences for enterprise applications.",
+      "location": "Mumbai",
+      "package_per_annum": "5 LPA",
+      "rating": 4.0
+    },
+    {
+      "id": "5",
+      "title": "iOS Developer",
+      "company_logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+      "employment_type": "FULLTIME",
+      "job_description": "Develop native iOS applications using Swift and SwiftUI.",
+      "location": "Chennai",
+      "package_per_annum": "14 LPA",
+      "rating": 4.6
+    },
+    {
+      "id": "6",
+      "title": "Cloud Architect",
+      "company_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+      "employment_type": "FULLTIME",
+      "job_description": "Design and implement cloud infrastructure on Azure.",
+      "location": "Hyderabad",
+      "package_per_annum": "17 LPA",
+      "rating": 4.9
+    },
+    {
+      "id": "7",
+      "title": "Data Scientist",
+      "company_logo_url": "https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png",
+      "employment_type": "FULLTIME",
+      "job_description": "Develop machine learning models for business insights.",
+      "location": "Chennai",
+      "package_per_annum": "20 LPA",
+      "rating": 4.9
+    },
+    {
+      "id": "8",
+      "title": "Blockchain Engineer",
+      "company_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg",
+      "employment_type": "FULLTIME",
+      "job_description": "Develop smart contracts and decentralized applications on Ethereum.",
+      "location": "Remote",
+      "package_per_annum": "19 LPA",
+      "rating": 4.8
+    },
+    {
+      "id": "9",
+      "title": "AI Research Scientist",
+      "company_logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg",
+      "employment_type": "FULLTIME",
+      "job_description": "Conduct cutting-edge research in computer vision and NLP.",
+      "location": "Bangalore",
+      "package_per_annum": "25 LPA",
+      "rating": 5.0
+    },
+    {
+      "id": "10",
+      "title": "DevOps Engineer",
+      "company_logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+      "employment_type": "FULLTIME",
+      "job_description": "Implement CI/CD pipelines and manage AWS infrastructure.",
+      "location": "Remote",
+      "package_per_annum": "16 LPA",
+      "rating": 4.8
+    },
+    {
+      "id": "11",
+      "title": "Android Developer",
+      "company_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg",
+      "employment_type": "FULLTIME",
+      "job_description": "Build music streaming applications for Android platform.",
+      "location": "Gurgaon",
+      "package_per_annum": "13 LPA",
+      "rating": 4.3
+    },
+    {
+      "id": "12",
+      "title": "Data Engineer",
+      "company_logo_url": "https://logos-world.net/wp-content/uploads/2020/05/Uber-Emblem.png",
+      "employment_type": "FULLTIME",
+      "job_description": "Design and maintain data pipelines for analytics.",
+      "location": "Pune",
+      "package_per_annum": "18 LPA",
+      "rating": 4.7
+    },
+    {
+      "id": "13",
+      "title": "Security Engineer",
+      "company_logo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+      "employment_type": "FULLTIME",
+      "job_description": "Implement security protocols and conduct penetration testing.",
+      "location": "Bangalore",
+      "package_per_annum": "22 LPA",
+      "rating": 4.8
+    },
+    {
+      "id": "14",
+      "title": "Product Manager",
+      "company_logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+      "employment_type": "FULLTIME",
+      "job_description": "Lead product development for OTT streaming platform.",
+      "location": "Mumbai",
+      "package_per_annum": "21 LPA",
+      "rating": 4.9
+    },
+    {
+      "id": "15",
+      "title": "QA Automation Engineer",
+      "company_logo_url": "data:image/jpeg;base64,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",
+      "employment_type": "PARTTIME",
+      "job_description": "Develop automated test scripts for mobile applications.",
+      "location": "Noida",
+      "package_per_annum": "9 LPA",
+      "rating": 4.1
+    },
+    {
+      "id": "16",
+      "title": "Technical Writer",
+      "company_logo_url": "https://www.pngplay.com/wp-content/uploads/9/Adobe-Systems-Logo-Transparent-Images.png",
+      "employment_type": "FREELANCE",
+      "job_description": "Create technical documentation for creative software.",
+      "location": "Remote",
+      "package_per_annum": "8 LPA",
+      "rating": 4.0
+    },
+    {
+      "id": "17",
+      "title": "AR/VR Developer",
+      "company_logo_url": "https://th.bing.com/th/id/OIP.VoVBbSBay_bsfT2EC5U4-wHaHa?w=174&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "employment_type": "FULLTIME",
+      "job_description": "Develop immersive experiences for automotive interfaces.",
+      "location": "Bangalore",
+      "package_per_annum": "19 LPA",
+      "rating": 4.7
+    },
+    {
+      "id": "18",
+      "title": "Database Administrator",
+      "company_logo_url": "https://th.bing.com/th/id/OIP.jdQ0-zCqys8HUsVr1-EE6AHaEK?w=295&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "employment_type": "FULLTIME",
+      "job_description": "Manage and optimize Oracle database clusters.",
+      "location": "Pune",
+      "package_per_annum": "15 LPA",
+      "rating": 4.5
+    },
+    {
+      "id": "19",
+      "title": "Game Developer",
+      "company_logo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Playstation_logo_colour.svg",
+      "employment_type": "FULLTIME",
+      "job_description": "Develop 3D games using Unity game engine.",
+      "location": "Hyderabad",
+      "package_per_annum": "14 LPA",
+      "rating": 4.4
+    },
+    {
+      "id": "20",
+      "title": "Embedded Systems Engineer",
+      "company_logo_url": "https://th.bing.com/th/id/OIP.jo5dPgs47NBogIJiW78VkQHaE8?w=279&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "employment_type": "FULLTIME",
+      "job_description": "Develop firmware for IoT devices and processors.",
+      "location": "Bengaluru",
+      "package_per_annum": "16 LPA",
+      "rating": 4.6
+    }
+  ]
+}
